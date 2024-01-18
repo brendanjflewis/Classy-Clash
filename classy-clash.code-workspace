@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../top-down-section/characters"
+		},
+		{
+			"path": "../top-down-section/nature_tileset"
+		}
+	],
+	"settings": {}
+}
